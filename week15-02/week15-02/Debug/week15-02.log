@@ -1,0 +1,9 @@
+﻿  02.c
+C:\Cprog\week15-02\week15-02\02.c(6,7): error C2061: 구문 오류: 식별자 'InputLine'
+C:\Cprog\week15-02\week15-02\02.c(6,7): error C2059: 구문 오류: ';'
+C:\Cprog\week15-02\week15-02\02.c(6,21): error C2059: 구문 오류: '<parameter-list>'
+C:\Cprog\week15-02\week15-02\02.c(16,16): warning C4013: 'InputLine'이(가) 정의되지 않았습니다. extern은 int형을 반환하는 것으로 간주합니다.
+C:\Cprog\week15-02\week15-02\02.c(16,18): error C2440: '=': 'int'에서 'lineT'(으)로 변환할 수 없습니다.
+C:\Cprog\week15-02\week15-02\02.c(17,16): warning C4013: 'InPutLine'이(가) 정의되지 않았습니다. extern은 int형을 반환하는 것으로 간주합니다.
+C:\Cprog\week15-02\week15-02\02.c(17,18): error C2440: '=': 'int'에서 'lineT'(으)로 변환할 수 없습니다.
+C:\Cprog\week15-02\week15-02\02.c(22,7): error C2371: 'InputLine': 재정의. 기본 형식이 다릅니다.
